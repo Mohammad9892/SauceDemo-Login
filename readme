@@ -1,0 +1,30 @@
+I've successfully implemented end-to-end login automation for the Sauce Demo website using Cucumber, Selenium WebDriver, and Java. This project ensures robust testing of login scenarios, covering both successful and unsuccessful login attempts.
+
+🌐 Key Features:
+
+Scenarios: Tested various login scenarios, including valid and invalid credentials.
+
+Page Objects: Implemented a modular Page Object Model for cleaner and maintainable code.
+
+Assertions: Utilized TestNG assertions to validate expected outcomes.
+
+WebDriver Management: Configured browser options dynamically using a properties file.
+
+📊 Detailed Reporting:
+Implemented comprehensive reporting for test execution results. The report provides insights into test coverage, pass/fail status, and detailed logs, ensuring transparency and facilitating quick issue identification.
+
+📹 Check out the video to see the automation in action!
+
+📂 GitHub Repo:
+Explore the code on GitHub: https://github.com/Mohammad9892/SauceDemo-Login
+
+📈 Tech Stack:
+
+Cucumber
+Selenium WebDriver
+Java
+TestNG
+Page Object Model
+Reporting
+
+👉 Passionate about QA Automation and Continuous Learning!
